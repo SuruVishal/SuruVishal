@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi there 👋, I'm Vishal
 
-<!--
-**SuruVishal/SuruVishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering (ECE) Student
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Web Development using HTML, CSS, and JavaScript
+- 🔌 Building my knowledge and skills in IoT, VLSI, and Embedded Systems
+- 💻 Interested in developing both software and hardware-based projects
+- 🚀 Passionate about learning new technologies and improving my technical skills
+- 📚 Continuously enhancing my aptitude, reasoning, and problem-solving abilities
+- 🎯 Seeking opportunities to gain practical experience through projects and internships
+
+Skills
+
+- Python
+- HTML
+- CSS
+- Git & GitHub
+- Arduino
+- C Programming
+- IoT
+- Embedded Systems
+
+Projects
+
+- 🌐 Portfolio Website
+- 📄 Resume Website
+- 🚦 Traffic Light Controller using Arduino (Wokwi)
+
+Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/vishal-suru-6a5a95375?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- GitHub: https://github.com/SuruVishal
+
+⭐ Thanks for visiting my profile!
+
