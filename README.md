@@ -2,7 +2,7 @@ Hi there 👋, I'm Vishal
 
 🎓 Electronics and Communication Engineering (ECE) Student
 
-About Me
+About Me👨‍🦱
 
 - 🌱 Currently learning Web Development using HTML, CSS, and JavaScript
 - 🔌 Building my knowledge and skills in IoT, VLSI, and Embedded Systems
@@ -11,7 +11,7 @@ About Me
 - 📚 Continuously enhancing my aptitude, reasoning, and problem-solving abilities
 - 🎯 Seeking opportunities to gain practical experience through projects and internships
 
-Skills
+​🛠️Skills
 
 - Python
 - HTML
@@ -22,13 +22,15 @@ Skills
 - IoT
 - Embedded Systems
 
-Projects
+💻​Wokwi Projects
 
-- 🌐 Portfolio Website
-- 📄 Resume Website
-- 🚦 Traffic Light Controller using Arduino (Wokwi)
+​🚦 Traffic light controller
+​🎛️ Potentiometer using Arduinouno
+​🛰️ I2C interfacing using arduino
+​⚙️ Interfacing of stepper motor using Arduinouno
+​🔐 Automatic door lock system using esp32
 
-Connect With Me
+🤝Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/vishal-suru-6a5a95375?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - GitHub: https://github.com/SuruVishal
