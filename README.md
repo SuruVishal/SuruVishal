@@ -25,9 +25,13 @@ About Me👨‍🦱
 💻​Wokwi Projects
 
 ​🚦 Traffic light controller
+
 ​🎛️ Potentiometer using Arduinouno
+
 ​🛰️ I2C interfacing using arduino
+
 ​⚙️ Interfacing of stepper motor using Arduinouno
+
 ​🔐 Automatic door lock system using esp32
 
 🤝Connect With Me
